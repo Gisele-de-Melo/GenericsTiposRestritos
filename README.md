@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/generics-e-tipos-restritos-em-delphi/
+  https://www.codedelphi.com/2024/10/generics-e-tipos-restritos-em-delphi.html
